@@ -6,7 +6,7 @@ This is a simple app that fetch datas required for the VBS calculation using AXI
 
 ## Deployment
 
-Install depencies
+Install dependencies
 
 ```bash
   npm i axios
