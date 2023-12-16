@@ -1,4 +1,4 @@
-# Haven Protocol NODEJS VBS calculator
+# Haven Protocol Node.js VBS calculator
 
 This is a simple app that fetch datas required for the VBS calculation using AXIOS then do the math to return the VBS ratio.
 
