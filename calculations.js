@@ -36,7 +36,7 @@ async function getVBS() {
             } else {
                              if (!oracleData || !oracleData.pr) {
     console.error("Invalid or missing oracle data.");
-   return { vbsOffshore: 'Refreshing..', vbsOnshore: 'Resfreshing..' }; 
+   return { vbsOffshore: 'Refreshing..', vbsOnshore: 'Refreshing..' }; 
 }
                 const assetKey = asset.replace("X", "x");
                 if (oracleData.pr.hasOwnProperty(assetKey)) {
