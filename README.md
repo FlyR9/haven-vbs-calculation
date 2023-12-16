@@ -33,7 +33,7 @@ node calculations.js
   Result: { vbsOffshore: 5, vbsOnshore: 10 }
 ```
 > [!NOTE]
-> Returned value may slightly differ from the wallet value due to price variations. This may be improved by using average price of different pairs.
+> Returned value may slightly differ from the wallet value due to price variations. This may be improved by using average price of different XHV pairs.
 
 
 ## What is VBS
