@@ -1,4 +1,4 @@
-# Haven Protocol Node.js VBS calculator
+# Haven Protocol VBS calculator
 
 This is a simple app that fetch datas required for the VBS calculation using AXIOS then do the math to return the VBS ratio.
 
@@ -19,6 +19,21 @@ Install depencies
 - https://explorer.havenprotocol.org/api/supply
 - https://oracle.havenprotocol.org/
 
+
+
+## Response
+
+```bash
+node calculations.js
+```
+ should print
+
+
+```bash
+  Result: { vbsOffshore: 5, vbsOnshore: 10 }
+```
+> [!NOTE]
+> Returned value may slightly differ from the wallet value due to price variations. This may be improved by using average price of different pairs.
 
 
 ## What is VBS
