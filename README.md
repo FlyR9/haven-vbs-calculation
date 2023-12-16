@@ -1,7 +1,16 @@
 # Haven Protocol VBS calculator
 
-This is a simple app that fetch datas required for the VBS calculation then do the math to return the VBS ratio.
+This is a simple app that fetch datas required for the VBS calculation using AXIOS then do the math to return the VBS ratio.
 
+
+
+## Deployment
+
+Install depencies
+
+```bash
+  npm i axios
+```
 
 
 ## Endpoints
